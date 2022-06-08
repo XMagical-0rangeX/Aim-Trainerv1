@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+canvas{
+    border: 1px solid grey;
+}
+button {
+    cursor: pointer;
+}
+input {
+    width: 50px;
+}
